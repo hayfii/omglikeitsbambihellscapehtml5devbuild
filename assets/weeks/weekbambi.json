@@ -1,0 +1,66 @@
+{
+	"storyName": "the final rap battle",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bambi",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"outrage",
+			"outrage",
+			[
+				0,
+				94,
+				42
+			]
+		],
+		[
+			"enshrouded",
+			"outrage",
+			[
+				0,
+				94,
+				42
+			]
+		],
+		[
+			"scorching",
+			"bambi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"kalampokiphobia",
+			"corn",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"phonophobia",
+			"godbambi",
+			[
+				0,
+				0,
+				50
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi"
+}

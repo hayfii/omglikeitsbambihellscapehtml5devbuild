@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="selectorArrows.png">
+<SubTexture name="staticFLIP0000" x="0" y="0" width="125" height="67" frameX="-8" frameY="-278" frameWidth="150" frameHeight="395" />
+<SubTexture name="animationFLIP0000" x="0" y="192" width="125" height="50" frameX="-8" frameY="-286" frameWidth="150" frameHeight="395" />
+<SubTexture name="animationFLIP0001" x="0" y="133" width="125" height="59" frameX="-8" frameY="-282" frameWidth="150" frameHeight="395" />
+<SubTexture name="animationFLIP0002" x="0" y="67" width="125" height="66" frameX="-8" frameY="-279" frameWidth="150" frameHeight="395" />
+<SubTexture name="static0000" x="125" y="0" width="125" height="67" frameX="-17" frameY="-50" frameWidth="150" frameHeight="395" />
+<SubTexture name="animation0000" x="125" y="192" width="125" height="50" frameX="-17" frameY="-59" frameWidth="150" frameHeight="395" />
+<SubTexture name="animation0001" x="125" y="133" width="125" height="59" frameX="-17" frameY="-54" frameWidth="150" frameHeight="395" />
+<SubTexture name="animation0002" x="125" y="67" width="125" height="66" frameX="-17" frameY="-50" frameWidth="150" frameHeight="395" />
+</TextureAtlas>

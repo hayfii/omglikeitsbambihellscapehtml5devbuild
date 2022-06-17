@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "greenbg",
+		"player1": "bftroll",
+		"player2": "bambi-normal",
+		"player3": null,
+		"events": [
+			[
+				6620.68965517241,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12620.6896551724,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				125793.103448276,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "trolling-me"
+	}
+}

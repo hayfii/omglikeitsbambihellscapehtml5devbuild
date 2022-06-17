@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": null,
+		"player1": "bambi-3d",
+		"player2": "god-dave",
+		"player3": null,
+		"events": [
+			[
+				52885.7142857143,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"10"
+					]
+				]
+			],
+			[
+				69942.8571428571,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"mania": null,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "bambi-is-gets-grounded"
+	}
+}

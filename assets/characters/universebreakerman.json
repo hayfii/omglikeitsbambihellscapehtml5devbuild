@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				137,
+				94
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "man",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/universebreakerman",
+	"position": [
+		-170,
+		-160
+	],
+	"healthicon": "universebreaker",
+	"flip_x": false,
+	"healthbar_colors": [
+		328,
+		84,
+		79
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
